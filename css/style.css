@@ -1,0 +1,40 @@
+body {
+  margin: 20px;
+  background-color: coral;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  background-color: #fefefe;
+  border: 1px solid;
+  border-radius: 30px;
+  font-size: 20pt;
+}
+
+#screen {
+  background-color: #e4e4e4;
+  font-size: 22pt;
+  height: 50px;  
+  text-align: right;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.calculator {
+  width: 320px;
+  background-color: #fefefe;
+  border-radius: 15px;
+  padding: 10px;    
+}
+
+.calc-buttons {
+  width: 280px;
+  margin: auto;  
+}
+
+#output {
+  vertical-align: text-top;
+  padding: 5px;  
+}
